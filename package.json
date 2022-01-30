@@ -1,5 +1,5 @@
 {
-  "name": "wabot-aq",
+  "name": "risawabot",
   "version": "2.5.1",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "start": "nodemon -x node index.js || touch index.js",
-    "test": "node test.js"
+    "test": ".test"
   },
   "nodemonConfig": {
     "ext": "js,html,sh"
@@ -22,9 +22,9 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/Risabotofficial/wabot-aku",
   "author": {
-    "name": "Nurutomo"
+    "name": "Naratumu"
   },
   "repository": {
     "type": "git",
